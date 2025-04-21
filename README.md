@@ -1,5 +1,5 @@
 # LangChain for LLM Application Development
-I took this course on DeepLearning.AI and followed some of the provided code, while also creating my own examples. I also updated several dependencies to ensure compatibility with the latest versions of LangChain.
+I took this course on DeepLearning.AI and followed some of the provided code, while also creating my own examples. I also updated several dependencies \href{dependencies}{requirements.txt} to ensure compatibility with the latest versions of LangChain.
 
 ## Topics Covered
 - **Models, Prompts, and Parsers:** Learn how to call LLMs, craft prompts, and parse responses.
